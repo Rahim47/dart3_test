@@ -51,7 +51,7 @@ List<Map<String, dynamic>> jsonData = [
     "id": "1jdb87fdssd7fs",
     "postType": "video",
     "videoUrl":
-        "https://www.youtube.com/watch?v=3-iCDOYkfms&ab_channel=FreeVideoIntros",
+        "https://www.youtube.com/watch?v=a3ICNMQW7Ok&ab_channel=TimotiusJoso",
     "likes": 123,
     "user": {
       "uid": "123d",
@@ -64,7 +64,7 @@ List<Map<String, dynamic>> jsonData = [
     "id": "1jdb87fdssd7fs",
     "postType": "video",
     "videoUrl":
-        "https://www.youtube.com/watch?v=3-iCDOYkfms&ab_channel=FreeVideoIntros",
+        "https://www.youtube.com/watch?v=a3ICNMQW7Ok&ab_channel=TimotiusJoso",
     "likes": 123,
     "user": {
       "uid": "123d",
@@ -77,7 +77,7 @@ List<Map<String, dynamic>> jsonData = [
     "id": "1jdb87fdssd7fs",
     "postType": "video",
     "videoUrl":
-        "https://www.youtube.com/watch?v=3-iCDOYkfms&ab_channel=FreeVideoIntros",
+        "https://www.youtube.com/watch?v=a3ICNMQW7Ok&ab_channel=TimotiusJoso",
     "likes": 123,
     "user": {
       "uid": "123d",
@@ -150,7 +150,7 @@ List<Map<String, dynamic>> jsonData = [
     "id": "1jdb87fdssd7fs",
     "postType": "video",
     "videoUrl":
-        "https://www.youtube.com/watch?v=3-iCDOYkfms&ab_channel=FreeVideoIntros",
+        "https://www.youtube.com/watch?v=a3ICNMQW7Ok&ab_channel=TimotiusJoso",
     "likes": 123,
     "user": {
       "uid": "123d",
@@ -163,7 +163,7 @@ List<Map<String, dynamic>> jsonData = [
     "id": "1jdb87fdssd7fs",
     "postType": "video",
     "videoUrl":
-        "https://www.youtube.com/watch?v=3-iCDOYkfms&ab_channel=FreeVideoIntros",
+        "https://www.youtube.com/watch?v=a3ICNMQW7Ok&ab_channel=TimotiusJoso",
     "likes": 123,
     "user": {
       "uid": "123d",
